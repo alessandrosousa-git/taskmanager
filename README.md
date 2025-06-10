@@ -9,15 +9,13 @@ Este projeto foi desenvolvido apartir de uma ACQA (trabalho da faculdade), com f
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - ✅ Adicionar novas tarefas com validação para evitar entradas vazias.
 - ✅ Marcar tarefas como concluídas ou pendentes.
 - ✅ Filtrar tarefas por status: Todas, Pendentes e Concluídas.
-- ✅ Mensagens de feedback para o usuário (sucesso e erro).
 - ✅ Animações suaves ao adicionar tarefas.
 - ✅ Botão “Adicionar” desabilitado quando o campo está vazio.
-- ✅ Layout responsivo e interface amigável.
 
 ---
 
@@ -27,3 +25,10 @@ Este projeto foi desenvolvido apartir de uma ACQA (trabalho da faculdade), com f
 - CSS3
 
 ---
+
+## Como executar
+
+git clone https://github.com/alessandrosousa-git/taskmanager  
+cd gerenciador-de-tarefas  
+yarn  
+yarn start
