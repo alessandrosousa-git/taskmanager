@@ -5,7 +5,7 @@
 ![Badge](https://img.shields.io/badge/License-MIT-green)
 
 Aplicação web desenvolvida em React para gerenciar tarefas. Permite adicionar, marcar como concluídas e filtrar tarefas por status (todas, pendentes e concluídas).  
-Este projeto foi desenvolvido apartir de uma ACQA (trabalho da faculdade), com foco em conceitos fundamentais do React, como gerenciamento de estado (`useState`), componentes reutilizáveis e manipulação de eventos.
+Este projeto foi desenvolvido apartir de uma ACQA (trabalho da faculdade), com foco em conceitos fundamentais do React, como gerenciamento de estado (`useState`), componentes reutilizáveis e manipulação de eventos.   
 
 ---
 
@@ -28,7 +28,7 @@ Este projeto foi desenvolvido apartir de uma ACQA (trabalho da faculdade), com f
 
 ## Como executar
 
-git clone https://github.com/alessandrosousa-git/taskmanager  
-cd gerenciador-de-tarefas  
+git clone https://github.com/alessandrosousasilva/taskmanager.git  
+cd taskmanager  
 yarn  
-yarn start
+yarn start   
