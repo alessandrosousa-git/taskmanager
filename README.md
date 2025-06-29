@@ -18,6 +18,11 @@ Este projeto foi desenvolvido apartir de uma ACQA (trabalho da faculdade), com f
 - ✅ Botão “Adicionar” desabilitado quando o campo está vazio.
 
 ---
+## Teste online
+
+https://alessandro-taskmanager.netlify.app/
+
+--- 
 
 ## Tecnologias utilizadas
 
